@@ -1,0 +1,40 @@
+.my_img {
+  max-width: 50%;
+  height: auto;
+}
+
+.nav{
+  padding: 20% 10%;
+
+  background-color: #e6f4d9;
+}
+
+.pad{
+
+padding:5% 10%;
+
+}
+
+.min_pad{
+  padding:5% 5%
+}
+
+.gr{
+  background-color: #e6f4d9;
+}
+
+.wh{
+  background-color: white;
+}
+
+.nav-item{
+  padding:18px 18px;
+}
+
+.fon{
+  font-size:150%;
+}
+
+body{
+  font-family: Lucida Console;
+}
